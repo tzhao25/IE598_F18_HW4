@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 22 16:34:19 2018
 
-@author: cloud
-"""
 print("My name is Tianhao Zhao")
 print("My NetID is: tzhao25")
 print("I hereby certify that I have read the University policy on Academic Integrity and that I am not in violation.")
